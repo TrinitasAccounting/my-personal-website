@@ -1,7 +1,22 @@
 body {
-    background: rgb(183, 183, 211);
+    background: white;
 }
 
 .NavyText {
     color: rgb(0, 0, 125);
+}
+
+.bold {
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+.Purple {
+    color: rgb(147, 41, 147);
+}
+
+.headshotIMG {
+    margin-left: 1000px;
+    width: 200px;
+    height: 200px;
 }
