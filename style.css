@@ -6,20 +6,21 @@ body {
     color: rgb(0, 0, 125);
 }
 
-.bold {
+#bold {
     font-family: fantasy;
-    font-size: 40px;
+    font-size: 100px;
 }
 
 .Purple {
     color: rgb(147, 41, 147);
+    font-size: 40px;
 }
 
 .headshotIMG {
     margin-left: 1000px;
     width: 200px;
     height: 200px;
-    margin-top: -100px;
+    margin-top: -175px;
     /* float: left; */
     position: fixed;
 }
